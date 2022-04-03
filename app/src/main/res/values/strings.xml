@@ -2,4 +2,9 @@
     <string name="app_name">Registra_Defectos</string>
     <string name="introduce_los_datos_del_defecto">Introduce los datos del defecto:</string>
     <string name="registrar">Registrar</string>
+    <string name="cualificador_de_defecto">Cualificador de Defecto</string>
+    <string name="modulo_de_origen">Modulo de Origen</string>
+    <string name="trigger_de_defecto">Trigger de Defecto</string>
+    <string name="impacto">Impacto</string>
+    <string name="tipo_de_defecto">Tipo de Defecto</string>
 </resources>
