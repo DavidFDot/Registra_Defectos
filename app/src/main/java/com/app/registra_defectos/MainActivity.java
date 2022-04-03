@@ -15,13 +15,8 @@ import java.util.UUID;
 public class MainActivity extends AppCompatActivity {
 
     UUID mIdDefecto;
-    TextView mText1;
-    TextView mText2;
-    TextView mText3;
-    TextView mText4;
-    TextView mText5;
-    Button mButton;
-    Button mButton2;
+    TextView mText1, mText2, mText3, mText4, mText5;
+    Button mButton, mButton2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
