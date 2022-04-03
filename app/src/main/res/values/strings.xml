@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Registra_Defectos</string>
+    <string name="introduce_los_datos_del_defecto">Introduce los datos del defecto:</string>
+    <string name="registrar">Registrar</string>
+</resources>
