@@ -39,6 +39,10 @@ public class MainActivity extends AppCompatActivity {
         mButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                String query = "INSERT INTO defectos (IdDefecto, Modulo, TriggerDefecto, Impacto," +
+                        " TipoDefecto, Cualificador, Fecha)" +
+                        "VALUES ('" + mIdDefecto + "', '" + mText1 + "', '" + mText2 + "', '" + mText3 + "', '" +
+                        mText4 + "', '" + mText5 + "', '" + date + "');";
 
                 Toast toast = Toast.makeText(getApplicationContext(),
                         "Registro Enviado", Toast.LENGTH_LONG);
